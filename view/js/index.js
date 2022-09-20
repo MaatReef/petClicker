@@ -5,32 +5,32 @@ export const model = {
         {
             clickCount: 0,
             name: 'Bubis',
-            imgSrc: './view/assets/img/bubis.jpeg',
+            imgSrc: './view/img/bubis.jpeg',
         },
         {
             clickCount: 0,
             name: 'Choco',
-            imgSrc: './view/assets/img/choco.jpeg',
+            imgSrc: './view/img/choco.jpeg',
         },
         {
             clickCount: 0,
             name: 'Frufru',
-            imgSrc: './view/assets/img/frufru.jpeg',
+            imgSrc: './view/img/frufru.jpeg',
         },
         {
             clickCount: 0,
             name: 'Grisín',
-            imgSrc: './view/assets/img/grisin.jpeg',
+            imgSrc: './view/img/grisin.jpeg',
         },
         {
             clickCount: 0,
             name: 'Mimi',
-            imgSrc: './view/assets/img/mimi.jpeg',
+            imgSrc: './view/img/mimi.jpeg',
         },
         {
             clickCount: 0,
             name: 'Pirito',
-            imgSrc: './view/assets/img/pirito.jpeg',
+            imgSrc: './view/img/pirito.jpeg',
         },
     ],
 };

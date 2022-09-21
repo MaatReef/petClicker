@@ -1,6 +1,6 @@
 
 import {petListView,petView  } from "../model/model.js";
-import {model  } from "../view/assets/js/index.js";
+import {model  } from "../view/js/index.js";
 
 // CONTROLADOR
 export const controller = {
@@ -33,5 +33,3 @@ export const controller = {
         petView.render();
     },
 };
-
-controller.init();

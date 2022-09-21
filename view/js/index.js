@@ -1,3 +1,6 @@
+import {controller  } from "../../controller/controller.js";
+import {petListView,petView  } from "../../model/model.js";
+
 // MODELO
 export const model = {
     currentPet: null,
@@ -36,3 +39,4 @@ export const model = {
 };
 
 
+controller.init();

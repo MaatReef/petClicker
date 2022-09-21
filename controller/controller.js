@@ -1,4 +1,3 @@
-
 import {petListView,petView  } from "../model/model.js";
 import {model  } from "../view/js/index.js";
 

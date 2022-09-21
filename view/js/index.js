@@ -1,5 +1,5 @@
-import {controller  } from "../../controller/controller.js";
-import {petListView,petView  } from "../../model/model.js";
+import {petListView,petView} from "../../model/model.js";
+import {controller} from "../../controller/controller.js";
 
 // MODELO
 export const model = {
@@ -37,6 +37,5 @@ export const model = {
         },
     ],
 };
-
 
 controller.init();
